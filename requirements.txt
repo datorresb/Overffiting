@@ -1,0 +1,8 @@
+pycaret
+pandas
+tqdm
+seaborn
+matplotlib
+scipy
+sklearn
+numpy
